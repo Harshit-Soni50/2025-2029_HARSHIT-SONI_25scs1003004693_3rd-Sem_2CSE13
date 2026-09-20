@@ -1,0 +1,2 @@
+# 2025-2029_HARSHIT-SONI_25scs1003004693_3rd-Sem_2CSE13
+The project is “AI-Based Student Performance Predictor Using C++”, using a from-scratch k-Nearest Neighbours (k-NN) classifier. It includes declaration, acknowledgement, table of contents, problem statement, objectives, architecture, methodology, training dataset, complete C++ code, testing/sample output, conclusion, future scope, and references.
